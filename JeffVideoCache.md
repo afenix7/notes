@@ -3,4 +3,5 @@ VideoInfoParseManager.parseNetworkM3U8Info
 211L，空间不足判断
 216L，M3U8Utils.createLocalM3U8File
 
-
+VideoProxyCacheManager下，
+IVideoInfoParsedListener.onM3U8ParsedFinished
